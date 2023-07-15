@@ -1,15 +1,15 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: Lily Punks
+description: Inaugural collection for Lilium launch!
+image: https://ipfs.io/ipfs/bafybeig3nuvb7m5ntsjrbop3n3xobxhhjz4pvup6hixkxjb5dlcpgkswie/1.png
 mintAddresses:
-  - 
+  - 9gWkqeBUdJxgPv9TYUM6mLY1RYkXHmJuHRhHnnM2UZ9qFqySotz
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/LiliumErgo
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/eNYQgKjT8T
     icon: fa-brands fa-discord fa-fw
   - label: Website
-    url: 
+    url: https://www.liliumergo.io/
     icon: fa-solid fa-globe fa-fw
